@@ -2,3 +2,4 @@
 learning python
 
 this chapter is about threading and multiprocessing
+how it effect programming of programs
